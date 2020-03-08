@@ -9,3 +9,8 @@ Primeiro contato com o Vue.js
 * Lifecycle Hooks
 * Consumir dados de uma API através do método fetch ('get')
 * Utilização de componentes em views
+
+## Screenshot
+
+![Image of screenshot](https://raw.githubusercontent.com/jadefr/quiz/master/src/assets/screenshot.png)
+
