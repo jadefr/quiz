@@ -1,24 +1,10 @@
 # quiz
 
-## Project setup
-```
-npm install
-```
+## Tech Stack
+* Vue
+* CSS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## O que aprendi
+* Primeiro contato com o Vue.js
+* Lifecycle Hooks
+* Consumir dados de uma API através do método fetch ('get')
