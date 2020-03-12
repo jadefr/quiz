@@ -12,5 +12,5 @@ Primeiro contato com o Vue.js
 
 ## Screenshot
 
-![Image of screenshot](https://raw.githubusercontent.com/jadefr/quiz/master/src/assets/screenshot.png)
+![Image of screenshot](https://raw.githubusercontent.com/jadefr/quiz/master/src/assets/quiz.jpg)
 
