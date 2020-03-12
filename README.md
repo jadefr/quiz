@@ -3,8 +3,8 @@ Jogo
 
 ## Tech Stack
 * Vue
-* CSS
 * Lodash
+* CSS
 
 ## O que aprendi
 * Lifecycle Hooks
