@@ -1,5 +1,5 @@
 # quiz
-Primeiro contato com o Vue.js
+Jogo
 
 ## Tech Stack
 * Vue
