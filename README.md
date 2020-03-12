@@ -10,6 +10,7 @@ Jogo
 * Lifecycle Hooks
 * Consumir dados de uma API através do método fetch ('get')
 * Utilização de componentes em views
+* Atribuir classes do CSS a objetos HTML através do diretivo v-bind:class
 
 ## Screenshot
 
