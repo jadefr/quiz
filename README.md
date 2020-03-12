@@ -4,6 +4,7 @@ Jogo
 ## Tech Stack
 * Vue
 * CSS
+* Lodash
 
 ## O que aprendi
 * Lifecycle Hooks
