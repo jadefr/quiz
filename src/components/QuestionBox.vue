@@ -108,7 +108,6 @@ export default {
 
 <style scoped>
   .list-group {
-    /*margin-top: 15px;*/
     margin-bottom: 15px;
   }
 
