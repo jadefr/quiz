@@ -4,6 +4,7 @@ Jogo
 ## Tech Stack
 * Vue
 * Lodash
+* BootstrapVue
 * CSS
 
 ## O que aprendi
