@@ -1,16 +1,18 @@
 # quiz
-Primeiro contato com o Vue.js
+Jogo
 
 ## Tech Stack
 * Vue
+* Lodash
 * CSS
 
 ## O que aprendi
 * Lifecycle Hooks
 * Consumir dados de uma API através do método fetch ('get')
 * Utilização de componentes em views
+* Atribuir classes do CSS a objetos HTML através do diretivo v-bind:class
 
 ## Screenshot
 
-![Image of screenshot](https://raw.githubusercontent.com/jadefr/quiz/master/src/assets/screenshot.png)
+![Image of screenshot](https://raw.githubusercontent.com/jadefr/quiz/master/src/assets/quiz.jpg)
 
